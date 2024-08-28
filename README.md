@@ -39,10 +39,10 @@ I am a passionate software engineering student
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssala034&rank=SSS,SS,S,AAA,AA,A" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssala034" /></a> </p>
 
 <!--
-**Hsala089/Hsala089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ssala034/Ssala034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
