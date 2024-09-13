@@ -37,7 +37,7 @@ I am a passionate software engineering student
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 </div>
 
-<p><br></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssala034)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ## 🏆 GitHub Trophies
