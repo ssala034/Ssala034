@@ -37,7 +37,7 @@ I am a passionate software engineering student
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssala034)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssala034)](https://github.com/EthanJamesLew/github-readme-stats-academic) -->
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssala034&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B" /></a> </p>
