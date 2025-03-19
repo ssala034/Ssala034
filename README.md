@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Shuaib
 
-I am a passionate software engineering student
+I am a passionate software engineering student. Open Source enthusiast! 
 
 ## 💻 Languages and Tools:
 
