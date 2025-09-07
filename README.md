@@ -2,7 +2,7 @@
 
 ### About Me
 - Software Engineering student at the University of Ottawa
-- Google Summer of Code '25 Mentee @ AsyncAPI
+- Google Summer of Code '25 Mentee @ AsyncAPI --> Checkout my work [here](https://gist.github.com/ssala034/4f90f4695a34d0e6bb897d2551aea973)
 - Seeking 2026 Summer internships
 
 ### 🌍 My Current Dev Journey
